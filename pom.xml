@@ -1,13 +1,13 @@
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>@groupId@</groupId>
-  <artifactId>@artifactId@</artifactId>
-  <version>@version@</version>
+  <groupId>IOCProj1_Basic</groupId>
+  <artifactId>IOCProj1_Basic</artifactId>
+  <version>10</version>
   <packaging>jar</packaging>
 
-  <name>@ant.project.name@</name>
-  <description>@description@</description>
-  <url>@project.url@</url>
+  <name>Test.Project</name>
+  <description>This is a test java project</description>
+  <url>project.url</url>
 
   <licenses>
     <license>
@@ -19,9 +19,9 @@
 
   <scm>
     <connection>
-      scm:git:@project.repo.url@
+      scm:git:https://github.com/ashwinathale/sample-java-project
     </connection>
-    <url>@project.scm.url@</url>
+    <url>https://github.com/ashwinathale/sample-java-project/</url>
   </scm>
 
   <developers>
